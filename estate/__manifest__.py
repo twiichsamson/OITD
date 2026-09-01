@@ -1,7 +1,7 @@
 # -*- coding: utf-8 -*-
 {
     "name": "Real Estate",
-    "version": "19.0.2",
+    "version": "19.0.3",
     "application": True,
     "depends": ["base"],
     "data": [
