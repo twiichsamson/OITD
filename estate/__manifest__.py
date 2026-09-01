@@ -2,7 +2,6 @@
 {
     "name": "Real Estate",
     "version": "19.0.0",
-    "depends": ["base"],
     "application": True,
     "depends": ["base"],
     "data": {
